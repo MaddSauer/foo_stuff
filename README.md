@@ -1,5 +1,7 @@
 # foo_stuff
 
+https://masterdns4gkzw7a43iqzo.westeurope.cloudapp.azure.com:8443
+
 https://docs.microsoft.com/en-us/azure/virtual-machines/linux/upload-vhd?toc=%2fazure%2fvirtual-machines%2flinux%2ftoc.json
 
 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACZgOY+nRvhDkkrn2iA7E5bGAyGw+JGwxgL0yi/ERds0nDfp3t1FSK6T1khpqj2pkCHKtg7AqPlgXLmmmzijUiZfZKqTyNCpjtHeoAHJUN1WLwDJ/qSHZWhUh/y7f/tUHVE48KMX9xYh        SO6rEG1Q4sGJvBQq6DB6U0DqqszYN08nob8m9kEXUokhCC7t95gqEuGW0X8St0962uGc7pVa6bSTiif2+8zAli8VxeulLAuS3NK8kV655ArDaANGLgvtmRTFamEGOK6WaVNk0iYf7o44DXV3pGDjB0V5p9L4xM+d3Htu3XAwGsr7cQ        BaSLlCiQp+Ve/k8dLKEpUAr0UylRZqiluAm4UMyjnyup6G2dC8dYrIsS5emOZq+N28KHq0oh4e8e+c/X6jQu8GZ5WpGMpfUgHsOukYmuH4xnzDxwIbepOAzhuOSZiYnDLh2q1pfonce4GhIjnEM8lqFQD5Ytke24bh5MEa/R6DpNnA        SlPG7lIHsaASQQZseRFyGXRJlkJh78zJsa26sXWL272L53KvqARN5YjXwqxB7WCVbIiA/fbXCH6ZauQlK9TpbWCEZe3rALmx5PNBDe6FBy8ExMwMWJtV0LKVvSDWIdVXphLMzAd5kSs/n+6Qqmpkuu8ZVdtW92kLxfm/nzFI4cg1ig        cy8FWAL3fXhiPSd9dOhzC061ldPkELUocINotcAYAcQlDUkHdsWg9c0qyrX6vGtypbnrVDvswxeoYuldgcZMfBkhA1cntNFTKSE+P/PKsszI16tYHLn0p82ZTd/x4QmZ4bBGI3yuQSMYyc57hIHurjrBX5snmyh7
